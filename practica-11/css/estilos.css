@@ -1,0 +1,49 @@
+body {background-color: rgb(221, 213, 167);
+}
+
+
+span {
+    color: rgb(16, 1, 1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+#rojo {color: crimson;
+    font-family:Impact;
+    text-align: center;
+    text-rendering: geometricPrecision;
+    text-transform: uppercase;
+    letter-spacing: 1mm;
+}
+
+.gris{background-color: gray;
+
+}
+
+.titulo1 {color: rgb(235, 8, 27);
+          font-family:Arial Narrow Bold, sans-serif;
+          font-weight: 400;
+          font-style: oblique;
+          font-weight: bold;
+          background-color: rgb(11, 0, 12);
+    
+ }
+
+ .titulo2 { color: rgb(255, 255, 255);
+          font-family:Arial Narrow Bold, sans-serif;
+          font-weight: 400;
+          font-style: oblique;
+          font-weight: bold;
+          background-color: rgb(136, 12, 127);
+
+    }
+
+  .titulo2 blanco  
+
+ .introd { color: black;
+           font-family: cursive;
+
+
+
+ }

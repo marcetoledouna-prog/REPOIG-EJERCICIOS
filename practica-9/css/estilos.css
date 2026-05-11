@@ -1,0 +1,39 @@
+body{
+      background-color: rgb(153, 136, 60);
+      
+}
+
+.nombre{
+      /*font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;*/
+        color: rgb(244, 241, 238);
+
+}
+      
+.beigeuno{
+      color: rgb(175, 131, 11);
+      background-color: rgb(179, 165, 133);
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.beigedos{ color: rgb(100, 75, 6);
+      background-color: rgb(246, 244, 240);
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      
+}
+
+.beigetres{ color: rgb(66, 55, 3);
+      background-color: rgb(231, 228, 221);
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.blanco{    
+      color: rgb(243, 242, 239);
+}
+
+.italic{
+      
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: medium;   
+     font-style: italic; 
+}
